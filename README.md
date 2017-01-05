@@ -7,7 +7,7 @@ Have you ever done the following?
   
 Stop the madness with this simple script, which can kill any one-word process by name. 
 
-Usage: `python kill-process [processName]`
+Usage: `python kill-process processName`
 
 
 Easy!
